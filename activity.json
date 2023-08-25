@@ -1,0 +1,354 @@
+{"quizlist":[
+  
+{
+            "question": "1. Materia medica is related to",
+            "option1": "Pharmacognosy",
+            "option2": "phytochemistry",
+            "option3": "pharma-medicines",
+            "option4": "Medicinal Chemistry"
+        },
+        {
+            "question": "2. Oldest document containing 700 medicinal herbs and more than 870 formula",
+            "option1": "Papyrus Ebers",
+            "option2": "Materia Medica",
+            "option3": "Charak Samhita",
+            "option4": "Sushrata Samhita"
+        },
+        {
+            "question": "3. Who isolated morphine from opium ?",
+            "option1": "Serturner",
+            "option2": "Seydler",
+            "option3": "pelletier",
+            "option4": "galen"
+        },
+        {
+            "question": "4. Who isolated strychine from Quinine ?",
+            "option1": "Pelletier",
+            "option2": "Serturner",
+            "option3": "Hippocratus",
+            "option4": "galen"
+        },
+        {
+            "question": "5. Modern idea of classification is based on",
+            "option1": "Chemotaxonomy",
+            "option2": "Homotoxomy",
+            "option3": "Taxonomical classification",
+            "option4": "Chemical classification"
+        },
+        {
+            "question": "6. Aphrodisiac therapy in ayurveda is known as:-",
+            "option1": "Vajikarna",
+            "option2": "Shalakya tantra",
+            "option3": "Toxicology",
+            "option4": "internal medicine"
+        },
+        {
+            "question": "7. Shalakya tantra in ayurveda means:-",
+            "option1": "Otohinolaryngology",
+            "option2": "prediatics",
+            "option3": "psychiatry",
+            "option4": "paediatrics"
+        },
+        {
+            "question": "8 Shalya tantra in ayurveda means",
+            "option1": "Surgery",
+            "option2": "Otohinolaryngology",
+            "option3": "Toxicology",
+            "option4": "Psycology"
+        },
+        {
+            "question": "9. \"Rasa\" in ayurveda is used to indicate ?",
+            "option1": "Lymph",
+            "option2": "Blood",
+            "option3": "Muscle",
+            "option4": "Digestive juices"
+        },
+        {
+            "question": "10. The synonym of \"BLOOD\" in ayurveda is known as :-",
+            "option1": "Kurvdhi",
+            "option2": "Kozhuppu",
+            "option3": "Sukillam",
+            "option4": "Artavan"
+        },
+        {
+            "question": "11. Female hormone is used to represent:-",
+            "option1": "Female hormone",
+            "option2": "Male hormone",
+            "option3": "Body fluids",
+            "option4": "Toxic products"
+        },
+        {
+            "question": "12 In unani system of medicine the word \" Blood \" is known by:-",
+            "option1": "Dan",
+            "option2": "Balgam",
+            "option3": "Safra",
+            "option4": "Sauda"
+        },
+        {
+            "question": "13. The wrong match for unani system is:-",
+            "option1": "Dan:- bones",
+            "option2": "Yellow bile:- Safra",
+            "option3": "Sauda:- Black bile",
+            "option4": "Balgham:- Phlegam"
+        },
+        {
+            "question": "14. Hot, cold, dry and moist are given by",
+            "option1": "Phythagorous",
+            "option2": "Hippocratic theory",
+            "option3": "Linnaeous",
+            "option4": "Aristotle"
+        },
+        {
+            "question": "15. Unani system of medicine treats the:-",
+            "option1": "Cause of disease",
+            "option2": "Symptoms of disease",
+            "option3": "Both",
+            "option4": "None"
+        },
+        {
+            "question": "16. Natural occuring drug herbal drugs are studied in:-",
+            "option1": "Pharmacotherapy",
+            "option2": "Diettotherapy",
+            "option3": "Regimental Therapy",
+            "option4": "Herbal therapy"
+        },
+        {
+            "question": "17. Homeopathy system of medicine given by?",
+            "option1": "Hahnemann",
+            "option2": "Homeotecans",
+            "option3": "Aniehomo",
+            "option4": "Darzin"
+        },
+        {
+            "question": "18. Choose the odd one",
+            "option1": "Tuber- Tomata",
+            "option2": "Corn- Colchicum",
+            "option3": "Rhizome- Ginger, termeric",
+            "option4": "Bulb- onion"
+        },
+        {
+            "question": "19. Mint, strawberry and valerian are obtained from",
+            "option1": "Subaerial stem",
+            "option2": "underground stem",
+            "option3": "gootee",
+            "option4": "grafting"
+        },
+        {
+            "question": "20.Layering is done for",
+            "option1": "all of the above",
+            "option2": "rose",
+            "option3": "lemon",
+            "option4": "jasmine"
+        },
+        {
+            "question": "21. Citus species and Roses are cultivated by:-",
+            "option1": "both",
+            "option2": "grafting",
+            "option3": "budding",
+            "option4": "none"
+        },
+        {
+            "question": "22. How does altitude effect the chemical constituents of gentian:-",
+            "option1": "increases",
+            "option2": "decreases",
+            "option3": "remain same",
+            "option4": "rapidly decreases"
+        },
+        {
+            "question": "23. The chemical consistent decrease with increasing in altitude in case of :-",
+            "option1": "pippermint",
+            "option2": "gentian",
+            "option3": "digitalis",
+            "option4": "rubarb"
+        },
+        {
+            "question": "24. The correct optimum temperature for the growth of the plant w.r.t temperature are:-",
+            "option1": "All of the above",
+            "option2": "Digitalis - 20-30 degree Celcius",
+            "option3": "Ipecac- 22-40  degree Celcius",
+            "option4": "chincona- 10-30  degree Celcius"
+        },
+        {
+            "question": "25. Which term is true for Cassia Angustifolia for short term drought:-",
+            "option1": "the concentration of senoside A and B increases",
+            "option2": "the concentration of senoside A and B decreases",
+            "option3": "the concentration of senoside C and D increases",
+            "option4": "the concentration of senoside C and D decreases"
+        },
+        {
+            "question": "26. Which of the following plants give more constituent in sunshine rather than in shade environment:-",
+            "option1": "both",
+            "option2": "cinchona",
+            "option3": "belladona",
+            "option4": "none"
+        },
+        {
+            "question": "27. The concentration of Anthranol in Rhubarb at winter season:-",
+            "option1": "increases",
+            "option2": "decreases",
+            "option3": "remain same",
+            "option4": "excrete out from stem"
+        },
+        {
+            "question": "28. Which soil don't favour the growth of digitalis :-",
+            "option1": "chalky soil",
+            "option2": "loamy soil",
+            "option3": "clayey soil",
+            "option4": "loam soil"
+        },
+        {
+            "question": "29. Choose the correct options for nutrient sources:-",
+            "option1": "all are correct",
+            "option2": "phosphate- bone",
+            "option3": "potassium:- wood ash",
+            "option4": "calcium:- egg shells"
+        },
+        {
+            "question": "30. 70% sand and 30% clay is present in:-",
+            "option1": "Loamy soil",
+            "option2": "Loam soil",
+            "option3": "silt",
+            "option4": "sandy soil"
+        },
+        {
+            "question": "31. Which of the following is growth promoting substances:-",
+            "option1": "all of the above",
+            "option2": "auxin",
+            "option3": "gibberellin",
+            "option4": "cytokinin"
+        },
+        {
+            "question": "32. Naturally occurring polyploidy plants are:-",
+            "option1": "All of the above",
+            "option2": "mentha",
+            "option3": "wheat & oats",
+            "option4": "cotton"
+        },
+        {
+            "question": "33.In belladona, opium & caraway polyploidy help to:-",
+            "option1": "improving the yeild",
+            "option2": "decreasing the variation",
+            "option3": "less water consumption",
+            "option4": "provide characteristic property"
+        },
+        {
+            "question": "34. Naturally occurring hybridized plants are:-",
+            "option1": "Mint",
+            "option2": "colchicum",
+            "option3": "digitalis",
+            "option4": "ouabain"
+        },
+        {
+            "question": "35. Plants having no roots are called:-",
+            "option1": "bryophytes",
+            "option2": "peteridoohytes",
+            "option3": "angiosperm",
+            "option4": "gymnosperm"
+        },
+        {
+            "question": "36. Cellulose cell wall convert blue to violet colour in presence of:-",
+            "option1": "both a & b",
+            "option2": "a:- Zncl2",
+            "option3": "b:- I2",
+            "option4": "d- Fecl3"
+        },
+        {
+            "question": "37. Phloroglucinol is used for the microscopic evaluation of:-",
+            "option1": "Lignified cell wall",
+            "option2": "suberised cellwall",
+            "option3": "cellulose cellwall",
+            "option4": "all of the above"
+        },
+        {
+            "question": "38. Sudan red gives orange red colour in the evaluation of:-",
+            "option1": "suberised cellwall",
+            "option2": "cellulose cellwall",
+            "option3": "Lignified cellwall",
+            "option4": "all of the above"
+        },
+        {
+            "question": "39. Inulin on reaction with Napthol and H2So4 turns:-",
+            "option1": "Brownish red",
+            "option2": "Black",
+            "option3": "Greenish yellow",
+            "option4": "Yellow"
+        },
+        {
+            "question": "40. Tannins gives bluish black colour on reaction with:-",
+            "option1": "Fecl3",
+            "option2": "AgNo3",
+            "option3": "Hcl",
+            "option4": "H2SO4"
+        },
+        {
+            "question": "41. The substance used for separation of fixed oil and fat are:-",
+            "option1": "Both",
+            "option2": "only ether",
+            "option3": "only ethanol",
+            "option4": "none"
+        },
+        {
+            "question": "42. Equal amount of Chromic and Nitric acid is used for the disintegration of:-",
+            "option1": "Sclerenchymatous tissue",
+            "option2": "Parenchymatous tissue",
+            "option3": "collenchymatous tissue",
+            "option4": "Pholem vessel"
+        },
+        {
+            "question": "43. The amount of silica present in soil can be determined by using:-",
+            "option1": "acid insoluble ash",
+            "option2": "acid soluble ash",
+            "option3": "basic insoluble ash",
+            "option4": "basic soluble ash"
+        },
+        {
+            "question": "44. Boiling is not required in case of :-",
+            "option1": "water soluble ash",
+            "option2": "acid insoluble ash",
+            "option3": "basic insoluble ash",
+            "option4": "potash"
+        },
+        {
+            "question": "45. The analytical method used for the test for aflatoxins are:-",
+            "option1": "TLC",
+            "option2": "GC",
+            "option3": "HPLC",
+            "option4": "paper chromatography"
+        },
+        {
+            "question": "46. Azeotropic disillation is the another name for:-",
+            "option1": "Toluene distillation",
+            "option2": "phenol distillation",
+            "option3": "Eucelle distillation",
+            "option4": "Tannin distillation"
+        },
+        {
+            "question": "47. Gravimetric method ( loss on drying) is used for determination of :-",
+            "option1": "water and volatile oil",
+            "option2": "water",
+            "option3": "fatty acid",
+            "option4": "volatile oil"
+        },
+        {
+            "question": "48. Amount of quinine hydrochloride used for determination of Bitterness value is:-",
+            "option1": "1gm in 2000 ml",
+            "option2": "2gm in 1000 ml",
+            "option3": "1gm in 500 ml",
+            "option4": "1gm in 100 ml"
+        },
+        {
+            "question": "49. The correct quantity for hemolytic index determination is:-",
+            "option1": "1000 unit per gram",
+            "option2": "100 unit per gram",
+            "option3": "10 unit per gram",
+            "option4": "500 unit per gram"
+        },
+        {
+            "question": "50. Tannins react with protein to form:-",
+            "option1": "insoluble tannate",
+            "option2": "soluble tannate",
+            "option3": "organic products",
+            "option4": "inorganic products"
+        }
+    ]
+}
